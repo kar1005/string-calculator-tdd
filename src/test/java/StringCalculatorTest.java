@@ -9,4 +9,9 @@ class StringCalculatorTest {
         assertEquals(5, calculator.add("5"));
     }
 
+    @Test
+    void shouldReturnSumOfTwoCommaSeparatedNumbers() {
+        assertEquals(9, calculator.add("4,5"));
+    }
+
 }
