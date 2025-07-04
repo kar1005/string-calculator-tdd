@@ -1,1 +1,112 @@
-# string-calculator-tdd
+# 🧪 String Calculator – TDD Kata (Java + JUnit)
+
+This project is a solution to the **String Calculator TDD Kata**, implemented using **Java 17** and **JUnit 5**, following strict **Test-Driven Development (TDD)** practices.
+
+This project is built as part of a recruitment assessment for **Incubyte** to demonstrate clean code, TDD discipline, and testability.
+
+---
+
+## ✅ Requirements Implemented
+
+| Feature | Status |
+|--------|--------|
+| Return 0 for an empty string | ✅ |
+| Return number for single input | ✅ |
+| Return sum for two comma-separated numbers | ✅ |
+
+---
+
+## 🧪 TDD Workflow Followed
+
+1. Write a failing test (red)
+2. Write the minimum code to pass (green)
+3. Refactor to clean up code
+4. Commit after each step
+
+---
+
+## 📁 Project Structure
+
+```
+string-calculator-tdd/
+├── 📂 src/
+│   ├── 📂 main/
+│   │   └── 📂 java/
+│   │       └── 📂 org/
+│   │           └── 📂 incubyte/
+│   │               └── 📄 StringCalculator.java
+│   └── 📂 test/
+│       └── 📂 java/
+│           └── 📂 org/
+│               └── 📂 incubyte/
+│                   └── 📄 StringCalculatorTest.java
+├── 📄 pom.xml
+└── 📄 README.md
+```
+
+### 📋 Key Files Description
+
+| File/Directory | Purpose |
+|---------------|---------|
+| `src/main/java/org/incubyte/StringCalculator.java` | Main implementation class with calculator logic |
+| `src/test/java/org/incubyte/StringCalculatorTest.java` | JUnit 5 test suite following TDD principles |
+| `pom.xml` | Maven configuration with dependencies and build settings |
+| `screenshots/` | Visual evidence of test execution and results |
+| `README.md` | Project documentation and setup instructions |
+
+---
+
+## ⚙️ Technologies Used
+
+| Tool         | Purpose              |
+|--------------|----------------------|
+| Java 17      | Core programming     |
+| JUnit 5      | Unit testing         |
+| Maven        | Dependency management |
+| IntelliJ IDEA| Development IDE      |
+
+---
+
+## 🚀 How to Run
+
+### 🧪 Run All Tests
+
+**From IntelliJ:**
+Right-click `StringCalculatorTest.java` → Run
+
+**From Command Line:**
+```bash
+mvn clean test
+```
+
+**From Maven:**
+```bash
+mvn test
+```
+
+---
+
+## 📸 Screenshots
+
+Include screenshots showing:
+- ✅ All tests passing in JUnit
+- 📊 Test coverage reports
+- 💻 Terminal output during test execution
+
+---
+
+
+---
+
+## 📜 Git Commit History
+
+Each feature was added using TDD and committed after:
+- ✅ Add support for empty string input
+- ✅ Handle single number input
+- ✅ Support two comma-separated numbers
+
+---
+
+## 👤 Author
+
+**Khushi Ruparelia**  
