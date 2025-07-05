@@ -37,9 +37,14 @@ string-calculator-tdd/
 │   │               └── 📄 StringCalculator.java
 │   └── 📂 test/
 │       └── 📂 java/
-│           └── 📂 org/
-│               └── 📂 incubyte/
 │                   └── 📄 StringCalculatorTest.java
+├── 📂 screenshots/
+│   ├── 📸 Test-1.png
+    ├── 📸 Test-2.png
+    ├── 📸 Test-3.png
+    ├── 📸 Test-4.png
+    ├── 📸 Test-5.png
+│   └── 📸 Test-6.png
 ├── 📄 pom.xml
 └── 📄 README.md
 ```
@@ -95,6 +100,15 @@ Include screenshots showing:
 
 ---
 
+## 📌 Sample Usage
+
+Although this is a library-style TDD project, here's an example:
+
+```java
+StringCalculator calc = new StringCalculator();
+int result = calc.add("//;\n1;2");
+System.out.println(result); // Output: 3
+```
 
 ---
 
@@ -110,3 +124,4 @@ Each feature was added using TDD and committed after:
 ## 👤 Author
 
 **Khushi Ruparelia**  
+Passionate about Coding
