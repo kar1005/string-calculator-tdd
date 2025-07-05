@@ -58,9 +58,9 @@ string-calculator-tdd/
 | File/Directory | Purpose |
 |---------------|---------|
 | `src/main/java/org/incubyte/StringCalculator.java` | Main implementation class with calculator logic |
-| `src/test/java/org/incubyte/StringCalculatorTest.java` | JUnit 5 test suite following TDD principles |
+| `src/test/java/StringCalculatorTest.java` | JUnit 5 test suite following TDD principles |
 | `pom.xml` | Maven configuration with dependencies and build settings |
-| `screenshots/` | Visual evidence of test execution and results |
+| `Screenshots/` | Visual evidence of test execution and results |
 | `README.md` | Project documentation and setup instructions |
 
 ---
