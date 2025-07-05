@@ -14,4 +14,10 @@ class StringCalculatorTest {
         assertEquals(9, calculator.add("4,5"));
     }
 
+    @Test
+    void shouldReturnSumOfMultipleCommaSeparatedNumbers() {
+        assertEquals(10, calculator.add("1,2,3,4"));
+    }
+
+
 }
