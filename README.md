@@ -98,9 +98,13 @@ mvn test
 ## 📸 Screenshots
 
 Include screenshots showing:
-- ✅ All tests passing in JUnit
-- 📊 Test coverage reports
-- 💻 Terminal output during test execution
+### ✅ JUnit Test Results
+![JUnit Test Results](screenshots/Test-6.png)
+
+- 📊 Intermediate Test Results
+- ![JUnit Test Results](screenshots/Test-2.png)
+- ![JUnit Test Results](screenshots/Test-4.png)
+
 
 ---
 
