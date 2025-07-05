@@ -13,6 +13,10 @@ This project is built as part of a recruitment assessment for **Incubyte** to de
 | Return 0 for an empty string | ✅ |
 | Return number for single input | ✅ |
 | Return sum for two comma-separated numbers | ✅ |
+| Handle multiple numbers | ✅ |
+| Support newline (`\n`) as delimiter | ✅ |
+| Support custom delimiter using `//[delimiter]\n` format | ✅ |
+| Throw exception for negative numbers and list them in message | ✅ |
 
 ---
 
