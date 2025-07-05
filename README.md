@@ -99,11 +99,11 @@ mvn test
 
 Include screenshots showing:
 ### ✅ JUnit Test Results
-![JUnit Test Results](screenshots/Test-6.png)
+![JUnit Test Results](Screenshots/Test-6.png)
 
 - 📊 Intermediate Test Results
-- ![JUnit Test Results](screenshots/Test-2.png)
-- ![JUnit Test Results](screenshots/Test-4.png)
+- ![JUnit Test Results](Screenshots/Test-2.png)
+- ![JUnit Test Results](Screenshots/Test-4.png)
 
 
 ---
