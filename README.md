@@ -101,9 +101,9 @@ Include screenshots showing:
 ### ✅ JUnit Test Results
 ![JUnit Test Results](Screenshots/Test-6.png)
 
-- 📊 Intermediate Test Results
-- ![JUnit Test Results](Screenshots/Test-2.png)
-- ![JUnit Test Results](Screenshots/Test-4.png)
+### 📊 Intermediate Test Results
+![JUnit Test Results](Screenshots/Test-2.png)
+![JUnit Test Results](Screenshots/Test-4.png)
 
 
 ---
