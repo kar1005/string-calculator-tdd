@@ -120,15 +120,6 @@ System.out.println(result); // Output: 3
 
 ---
 
-## 📜 Git Commit History
-
-Each feature was added using TDD and committed after:
-- ✅ Add support for empty string input
-- ✅ Handle single number input
-- ✅ Support two comma-separated numbers
-
----
-
 ## 👤 Author
 
 **Khushi Ruparelia**  
